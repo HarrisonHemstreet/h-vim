@@ -1,7 +1,12 @@
 {
+  "config": {
+    "cmd": "ConformSetup",
+    "config": "require('config.conform')"
+  },
   "extras": [
-    "lazyvim.plugins.extras.ui.edgy"
+
   ],
+  "name": "mhartington/conform.nvim",
   "news": {
     "NEWS.md": "2123"
   },
